@@ -72,7 +72,7 @@ public class Hangman{
     public static void main(String[] args) {
         String word = randomWord(words);
         //prints out generated word, for testing purposes        
-        //System.out.println(word);  
+        System.out.println(word);  
 
         
         //main loop!

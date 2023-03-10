@@ -4,14 +4,13 @@ Hangman is a simple Java game made for practice purposes.
 
 # Preview
 
+![gif](https://github.com/doughtyphilipe/hangman/blob/main/hangman.gif)
+
 First display the user sees
-
-
 
 ![first](https://github.com/doughtyphilipe/hangman/blob/main/Hangman1.PNG)
 
 Last display the user sees, in case of missing the letters "t", "o" and "a".
-
 
 
 ![second](https://github.com/doughtyphilipe/hangman/blob/main/Hangman2.PNG)

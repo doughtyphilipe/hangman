@@ -4,7 +4,8 @@ Hangman is a simple Java game made for practice purposes.
 
 # Preview
 
-![gif](https://github.com/doughtyphilipe/hangman/blob/main/hangman.gif)
+![hangman](https://user-images.githubusercontent.com/123315352/224512283-ee6c32c4-bb92-4c2d-bd1c-9794b01a5e0e.gif)
+
 
 ## Usage
 This code is used to define our Placeholders in Hangman, we define it at first and then add the correct words, if the users guesses them correctly.
